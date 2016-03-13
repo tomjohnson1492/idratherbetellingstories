@@ -18,6 +18,10 @@ navigation:
    url: /about
  - title: Contact
    url: /contact
+ - title: Subscribe
+   url: /subscribe
+ - title: Flickr
+   url: /flickr
 
 social:
    github: tomjohnson1492
