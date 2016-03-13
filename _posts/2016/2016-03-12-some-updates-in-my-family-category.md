@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Some family updates"
 categories:
 - family

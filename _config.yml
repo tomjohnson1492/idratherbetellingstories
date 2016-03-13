@@ -4,7 +4,7 @@ description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 url: http://idratherbetellingstories.com
 baseurl: ""
 paginate_path: "blog/page:num/"
-permalink: blog/:title/
+#permalink: blog/:title/
 
 markdown: kramdown
 highlighter: rouge
@@ -26,3 +26,14 @@ social:
    email: tomjohnson1492@gmail.com
 
 # google_analytics: "UA-58263416-1"
+
+permalink: /:year/:month/:day/:title/
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true
+      search: true
