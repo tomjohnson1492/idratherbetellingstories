@@ -1,5 +1,6 @@
 --
-title: Shannon got into Stanford!
+title: "Shannon got into Stanford"
+permalink: /shannon-got-into-stanford-ma-program/
 ---
 
 Shannon applied to a master of liberal arts program at Stanford and was accepted. She starts her program in the fall. Only 21 applicants were accepted this year, so it was pretty selective. (They didn't say how many total applicants applied.) She's really excited about it. The program is designed for working adults, so the classes will be in the evenings and extended out over a 4-5 year period instead of 2.
