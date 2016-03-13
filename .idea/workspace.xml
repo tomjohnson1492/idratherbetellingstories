@@ -2,9 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="350ddd91-d297-49f0-a436-2b74df9fac06" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011/2011-09-27-fathers-blessings-august-2011.html" afterPath="$PROJECT_DIR$/_posts/2011/2011-09-27-fathers-blessings-august-2011.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016/2016-03-12-some-updates-in-my-family-category.md" afterPath="$PROJECT_DIR$/_posts/2016/2016-03-12-some-updates-in-my-family-category.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/samples/2014-12-10-test-post.markdown" afterPath="$PROJECT_DIR$/_posts/samples/test-post.markdown" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/samples/2014-12-11-image-in-post.markdown" afterPath="$PROJECT_DIR$/_posts/samples/image-in-post.markdown" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/samples/2014-12-12-figure-with-caption.markdown" afterPath="$PROJECT_DIR$/_posts/samples/figure-with-caption.markdown" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/samples/2014-12-13-code-snippet.markdown" afterPath="$PROJECT_DIR$/_posts/samples/code-snippet.markdown" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/samples/2014-12-14-featured-image.markdown" afterPath="$PROJECT_DIR$/_posts/samples/featured-image.markdown" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/samples/2014-12-15-example-post-formatting.markdown" afterPath="$PROJECT_DIR$/_posts/samples/example-post-formatting.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011/2011-04-28-cedar-fort-cemetary.html" afterPath="$PROJECT_DIR$/_posts/2011/2011-04-28-cedar-fort-cemetary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011/2011-05-01-saratoga-hot-springs.html" afterPath="$PROJECT_DIR$/_posts/2011/2011-05-01-saratoga-hot-springs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011/2011-05-02-the-butterfly-paths.html" afterPath="$PROJECT_DIR$/_posts/2011/2011-05-02-the-butterfly-paths.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011/2011-06-21-on-telling-real-stories.html" afterPath="$PROJECT_DIR$/_posts/2011/2011-06-21-on-telling-real-stories.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011/2011-06-22-on-prayer.html" afterPath="$PROJECT_DIR$/_posts/2011/2011-06-22-on-prayer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011/2011-07-24-our-spring-view-farms-trail-adventure.html" afterPath="$PROJECT_DIR$/_posts/2011/2011-07-24-our-spring-view-farms-trail-adventure.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011/2011-07-26-thanksgiving-point-gardens-outing.html" afterPath="$PROJECT_DIR$/_posts/2011/2011-07-26-thanksgiving-point-gardens-outing.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011/2011-07-31-swimming-at-the-lehi-legacy-center.html" afterPath="$PROJECT_DIR$/_posts/2011/2011-07-31-swimming-at-the-lehi-legacy-center.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011/2011-08-09-sidewalk-chalk-at-thanksgiving-point-gardens.html" afterPath="$PROJECT_DIR$/_posts/2011/2011-08-09-sidewalk-chalk-at-thanksgiving-point-gardens.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011/2011-08-14-windy-night-and-a-stray-cat.html" afterPath="$PROJECT_DIR$/_posts/2011/2011-08-14-windy-night-and-a-stray-cat.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011/2011-08-17-the-big-hill.html" afterPath="$PROJECT_DIR$/_posts/2011/2011-08-17-the-big-hill.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011/2011-08-18-storm-returns-home.html" afterPath="$PROJECT_DIR$/_posts/2011/2011-08-18-storm-returns-home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011/2011-08-19-how-swimming-has-changed.html" afterPath="$PROJECT_DIR$/_posts/2011/2011-08-19-how-swimming-has-changed.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011/2011-08-21-stewart-falls-one-last-outing-before-summer-ends.html" afterPath="$PROJECT_DIR$/_posts/2011/2011-08-21-stewart-falls-one-last-outing-before-summer-ends.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011/2011-11-27-cooking-tamales.html" afterPath="$PROJECT_DIR$/_posts/2011/2011-11-27-cooking-tamales.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011/2011-11-27-discovering-antelope-island.html" afterPath="$PROJECT_DIR$/_posts/2011/2011-11-27-discovering-antelope-island.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011/2011-11-27-reading-mistborn.html" afterPath="$PROJECT_DIR$/_posts/2011/2011-11-27-reading-mistborn.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011/2011-11-27-regret-over-a-missed-career-in-astronomy.html" afterPath="$PROJECT_DIR$/_posts/2011/2011-11-27-regret-over-a-missed-career-in-astronomy.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011/2011-12-11-counting-calories.html" afterPath="$PROJECT_DIR$/_posts/2011/2011-12-11-counting-calories.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011/2011-12-11-grandma-nana-comes-to-visit.html" afterPath="$PROJECT_DIR$/_posts/2011/2011-12-11-grandma-nana-comes-to-visit.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011/2011-12-11-how-avery-got-earrings.html" afterPath="$PROJECT_DIR$/_posts/2011/2011-12-11-how-avery-got-earrings.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011/2011-12-11-king-size-bed-fits-four.html" afterPath="$PROJECT_DIR$/_posts/2011/2011-12-11-king-size-bed-fits-four.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011/2011-12-11-we-moved-downstairs.html" afterPath="$PROJECT_DIR$/_posts/2011/2011-12-11-we-moved-downstairs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011/2011-12-14-buffalo-on-antelope-island.html" afterPath="$PROJECT_DIR$/_posts/2011/2011-12-14-buffalo-on-antelope-island.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011/2011-12-14-grandpa-reading-runaway-bunny.html" afterPath="$PROJECT_DIR$/_posts/2011/2011-12-14-grandpa-reading-runaway-bunny.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011/2011-12-14-hanging-out-at-home.html" afterPath="$PROJECT_DIR$/_posts/2011/2011-12-14-hanging-out-at-home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011/2011-12-14-kids-singing.html" afterPath="$PROJECT_DIR$/_posts/2011/2011-12-14-kids-singing.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011/2011-12-14-sitting-around-at-home.html" afterPath="$PROJECT_DIR$/_posts/2011/2011-12-14-sitting-around-at-home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011/2011-12-14-what-i-like-about-grandpa.html" afterPath="$PROJECT_DIR$/_posts/2011/2011-12-14-what-i-like-about-grandpa.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2012/2012-08-20-summer-is-over-school-begins-again.html" afterPath="$PROJECT_DIR$/_posts/2012/2012-08-20-summer-is-over-school-begins-again.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2012/2012-09-02-first-day-of-school.html" afterPath="$PROJECT_DIR$/_posts/2012/2012-09-02-first-day-of-school.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013/2013-01-13-discovering-girl-scouts.html" afterPath="$PROJECT_DIR$/_posts/2013/2013-01-13-discovering-girl-scouts.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013/2013-01-13-girl-scouts-painting-and-comic-art-badges.html" afterPath="$PROJECT_DIR$/_posts/2013/2013-01-13-girl-scouts-painting-and-comic-art-badges.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013/2013-11-17-the-bug-badge.html" afterPath="$PROJECT_DIR$/_posts/2013/2013-11-17-the-bug-badge.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014/2014-03-16-two-months-after-leaving-the-church-an-update.html" afterPath="$PROJECT_DIR$/_posts/2014/2014-03-16-two-months-after-leaving-the-church-an-update.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014/2014-09-28-maisies-peak-and-more.html" afterPath="$PROJECT_DIR$/_posts/2014/2014-09-28-maisies-peak-and-more.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014/2014-09-28-natural-bridges.html" afterPath="$PROJECT_DIR$/_posts/2014/2014-09-28-natural-bridges.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014/2014-10-16-biking-trip-to-yosemite.html" afterPath="$PROJECT_DIR$/_posts/2014/2014-10-16-biking-trip-to-yosemite.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014/2014-10-19-san-francisco-city-to-ferry-loop-bicycle-ride.html" afterPath="$PROJECT_DIR$/_posts/2014/2014-10-19-san-francisco-city-to-ferry-loop-bicycle-ride.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014/2014-10-26-santa-clara-to-san-carlos-bike-ride.html" afterPath="$PROJECT_DIR$/_posts/2014/2014-10-26-santa-clara-to-san-carlos-bike-ride.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014/2014-10-28-celebrating-lucy-and-her-timeline.html" afterPath="$PROJECT_DIR$/_posts/2014/2014-10-28-celebrating-lucy-and-her-timeline.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014/2014-11-09-crystal-springs-reservoir-ride-and-other-details.html" afterPath="$PROJECT_DIR$/_posts/2014/2014-11-09-crystal-springs-reservoir-ride-and-other-details.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014/2014-12-04-free-from-limitations-and-imaginary-lines.html" afterPath="$PROJECT_DIR$/_posts/2014/2014-12-04-free-from-limitations-and-imaginary-lines.html" />
     </list>
     <ignored path="idratherbetellingstories.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,110 +72,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
+      <file leaf-file-name="2011-11-27-regret-over-a-missed-career-in-astronomy.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2011/2011-11-27-regret-over-a-missed-career-in-astronomy.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contact.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.586207">
-              <caret line="5" column="75" selection-start-line="5" selection-start-column="75" selection-end-line="5" selection-end-column="75" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2016-03-12-some-updates-in-my-family-category.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2016/2016-03-12-some-updates-in-my-family-category.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.51724136">
-              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2011-08-09-sidewalk-chalk-at-thanksgiving-point-gardens.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2011/2011-08-09-sidewalk-chalk-at-thanksgiving-point-gardens.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.125">
-              <caret line="21" column="43" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2014-12-12-figure-with-caption.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/samples/2014-12-12-figure-with-caption.markdown">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.51724136">
-              <caret line="1" column="12" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2011-04-28-cedar-fort-cemetary.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2011/2011-04-28-cedar-fort-cemetary.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
+            <state vertical-scroll-proportion="8.083333">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2011-05-01-saratoga-hot-springs.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2011/2011-05-01-saratoga-hot-springs.html">
+      <file leaf-file-name="2011-12-11-grandma-nana-comes-to-visit.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2011/2011-12-11-grandma-nana-comes-to-visit.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-9.375">
+              <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2013-01-13-discovering-girl-scouts.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2013/2013-01-13-discovering-girl-scouts.html">
+      <file leaf-file-name="2011-05-02-the-butterfly-paths.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2011/2011-05-02-the-butterfly-paths.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.5">
-              <caret line="12" column="204" selection-start-line="12" selection-start-column="204" selection-end-line="12" selection-end-column="204" />
+            <state vertical-scroll-proportion="-7.2083335">
+              <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2012-08-20-summer-is-over-school-begins-again.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2012/2012-08-20-summer-is-over-school-begins-again.html">
+      <file leaf-file-name="2014-11-09-crystal-springs-reservoir-ride-and-other-details.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2014/2014-11-09-crystal-springs-reservoir-ride-and-other-details.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.42429283">
+              <caret line="12" column="342" selection-start-line="12" selection-start-column="342" selection-end-line="12" selection-end-column="342" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2014-10-19-san-francisco-city-to-ferry-loop-bicycle-ride.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2014/2014-10-19-san-francisco-city-to-ferry-loop-bicycle-ride.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.75">
+              <caret line="14" column="374" selection-start-line="14" selection-start-column="374" selection-end-line="14" selection-end-column="374" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2014-10-26-santa-clara-to-san-carlos-bike-ride.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2014/2014-10-26-santa-clara-to-san-carlos-bike-ride.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.875">
+              <caret line="11" column="356" selection-start-line="11" selection-start-column="356" selection-end-line="11" selection-end-column="356" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2014-10-28-celebrating-lucy-and-her-timeline.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2014/2014-10-28-celebrating-lucy-and-her-timeline.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-8.125">
-              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2011-09-27-fathers-blessings-august-2011.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2011/2011-09-27-fathers-blessings-august-2011.html">
+      <file leaf-file-name="2014-10-16-biking-trip-to-yosemite.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2014/2014-10-16-biking-trip-to-yosemite.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.11658031">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state vertical-scroll-proportion="-7.5">
+              <caret line="12" column="344" selection-start-line="12" selection-start-column="344" selection-end-line="12" selection-end-column="344" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2014-09-28-natural-bridges.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2014/2014-09-28-natural-bridges.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.5">
+              <caret line="12" column="340" selection-start-line="12" selection-start-column="340" selection-end-line="12" selection-end-column="340" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2014-09-28-maisies-peak-and-more.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2014/2014-09-28-maisies-peak-and-more.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.0416666">
+              <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -143,36 +181,43 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/CNAME" />
-        <option value="$PROJECT_DIR$/_posts/2011/2011-05-02-the-butterfly-paths.html" />
         <option value="$PROJECT_DIR$/_posts/2011/2011-07-24-our-spring-view-farms-trail-adventure.html" />
         <option value="$PROJECT_DIR$/_posts/2011/2011-07-26-thanksgiving-point-gardens-outing.html" />
-        <option value="$PROJECT_DIR$/_posts/2011/2011-07-31-swimming-at-the-lehi-legacy-center.html" />
         <option value="$PROJECT_DIR$/_posts/2011/2011-08-09-sidewalk-chalk-at-thanksgiving-point-gardens.html" />
         <option value="$PROJECT_DIR$/_posts/2011/2011-08-14-windy-night-and-a-stray-cat.html" />
         <option value="$PROJECT_DIR$/_posts/2011/2011-08-18-storm-returns-home.html" />
         <option value="$PROJECT_DIR$/_posts/2011/2011-08-21-stewart-falls-one-last-outing-before-summer-ends.html" />
         <option value="$PROJECT_DIR$/_posts/2011/2011-11-27-cooking-tamales.html" />
-        <option value="$PROJECT_DIR$/_posts/2011/2011-11-27-discovering-antelope-island.html" />
-        <option value="$PROJECT_DIR$/_posts/2011/2011-11-27-reading-mistborn.html" />
         <option value="$PROJECT_DIR$/_posts/2011/2011-12-11-grandma-nana-comes-to-visit.html" />
         <option value="$PROJECT_DIR$/_posts/2011/2011-12-11-how-avery-got-earrings.html" />
         <option value="$PROJECT_DIR$/_posts/2011/2011-12-11-king-size-bed-fits-four.html" />
-        <option value="$PROJECT_DIR$/_posts/2011/2011-12-14-buffalo-on-antelope-island.html" />
         <option value="$PROJECT_DIR$/_posts/2011/2015-02-07-callie-reads-her-angel-island-report-and-plays-with-the-microphone.html" />
         <option value="$PROJECT_DIR$/_posts/2013/2013-01-13-discovering-girl-scouts.html" />
         <option value="$PROJECT_DIR$/_posts/2013/2013-01-13-girl-scouts-painting-and-comic-art-badges.html" />
         <option value="$PROJECT_DIR$/_posts/2013/2013-11-17-the-bug-badge.html" />
         <option value="$PROJECT_DIR$/_posts/2014/2014-01-16-why-i-left-the-mormon-church.md" />
-        <option value="$PROJECT_DIR$/_posts/2014/2014-09-28-maisies-peak-and-more.html" />
-        <option value="$PROJECT_DIR$/_posts/2014/2014-10-19-san-francisco-city-to-ferry-loop-bicycle-ride.html" />
         <option value="$PROJECT_DIR$/_posts/2014/2014-10-28-celebrating-lucy-and-her-timeline.html" />
-        <option value="$PROJECT_DIR$/_posts/2014/2014-11-09-crystal-springs-reservoir-ride-and-other-details.html" />
-        <option value="$PROJECT_DIR$/_posts/2014/2014-12-04-free-from-limitations-and-imaginary-lines.html" />
         <option value="$PROJECT_DIR$/about.md" />
         <option value="$PROJECT_DIR$/contact.md" />
         <option value="$PROJECT_DIR$/_posts/2016/2016-03-12-some-updates-in-my-family-category.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2011/2011-09-27-fathers-blessings-august-2011.html" />
+        <option value="$PROJECT_DIR$/_posts/2011/2011-07-31-swimming-at-the-lehi-legacy-center.html" />
+        <option value="$PROJECT_DIR$/_posts/2011/2011-04-28-cedar-fort-cemetary.html" />
+        <option value="$PROJECT_DIR$/_posts/2014/2014-12-04-free-from-limitations-and-imaginary-lines.html" />
+        <option value="$PROJECT_DIR$/_posts/2014/2014-09-28-maisies-peak-and-more.html" />
+        <option value="$PROJECT_DIR$/_posts/2011/2011-12-14-what-i-like-about-grandpa.html" />
+        <option value="$PROJECT_DIR$/_posts/2011/2011-12-14-hanging-out-at-home.html" />
+        <option value="$PROJECT_DIR$/_posts/2011/2011-12-14-kids-singing.html" />
+        <option value="$PROJECT_DIR$/_posts/2011/2011-12-14-buffalo-on-antelope-island.html" />
+        <option value="$PROJECT_DIR$/_posts/2011/2011-11-27-discovering-antelope-island.html" />
+        <option value="$PROJECT_DIR$/_posts/2011/2011-11-27-reading-mistborn.html" />
+        <option value="$PROJECT_DIR$/_posts/2011/2011-05-02-the-butterfly-paths.html" />
+        <option value="$PROJECT_DIR$/_posts/2014/2014-10-19-san-francisco-city-to-ferry-loop-bicycle-ride.html" />
+        <option value="$PROJECT_DIR$/_posts/2014/2014-10-26-santa-clara-to-san-carlos-bike-ride.html" />
+        <option value="$PROJECT_DIR$/_posts/2014/2014-10-16-biking-trip-to-yosemite.html" />
+        <option value="$PROJECT_DIR$/_posts/2014/2014-09-28-natural-bridges.html" />
+        <option value="$PROJECT_DIR$/_posts/2014/2014-11-09-crystal-springs-reservoir-ride-and-other-details.html" />
       </list>
     </option>
   </component>
@@ -377,7 +422,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="SearchEverywhereHistoryKey" value="sidewalk&#9;FILE&#9;file:///Users/tomjoht/projects/idratherbetellingstories/_posts/2011/2011-08-09-sidewalk-chalk-at-thanksgiving-point-gardens.html" />
+    <property name="SearchEverywhereHistoryKey" value="swimming-at-the-lehi-legacy-center&#9;FILE&#9;file:///Users/tomjoht/projects/idratherbetellingstories/_posts/2011/2011-07-31-swimming-at-the-lehi-legacy-center.html&#10;sidewalk&#9;FILE&#9;file:///Users/tomjoht/projects/idratherbetellingstories/_posts/2011/2011-08-09-sidewalk-chalk-at-thanksgiving-point-gardens.html" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -450,7 +495,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30744338" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32924962" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924962" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -473,78 +518,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2011/2011-06-26-i-want-to-be-a-spy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5833333">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2011/2011-07-24-directions.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2011/2011-07-24-our-spring-view-farms-trail-adventure.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.4102564">
-          <caret line="45" column="201" selection-start-line="45" selection-start-column="201" selection-end-line="45" selection-end-column="201" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2011/2011-07-25-thinking-more-about-family.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2011/2011-07-26-thanksgiving-point-gardens-outing.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="6.25641">
-          <caret line="49" column="169" selection-start-line="49" selection-start-column="169" selection-end-line="49" selection-end-column="169" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2011/2011-07-31-swimming-at-the-lehi-legacy-center.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.5641026">
-          <caret line="25" column="188" selection-start-line="25" selection-start-column="188" selection-end-line="25" selection-end-column="188" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2011/2011-08-14-windy-night-and-a-stray-cat.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.25641">
-          <caret line="25" column="169" selection-start-line="25" selection-start-column="169" selection-end-line="25" selection-end-column="169" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2011/2011-08-17-the-big-hill.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2011/2011-08-18-storm-returns-home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="5.4871793">
-          <caret line="15" column="171" selection-start-line="15" selection-start-column="171" selection-end-line="15" selection-end-column="171" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2011/2011-08-19-how-swimming-has-changed.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -569,42 +542,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2011/2011-11-27-discovering-antelope-island.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="6.0641026">
-          <caret line="57" column="169" selection-start-line="57" selection-start-column="169" selection-end-line="57" selection-end-column="169" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2011/2011-11-27-reading-mistborn.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.2051282">
-          <caret line="15" column="170" selection-start-line="15" selection-start-column="170" selection-end-line="15" selection-end-column="170" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2011/2011-11-27-regret-over-a-missed-career-in-astronomy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="4.9583335">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2011/2011-12-11-counting-calories.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="5.5833335">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2011/2011-12-11-grandma-nana-comes-to-visit.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.74358976">
-          <caret line="22" column="181" selection-start-line="22" selection-start-column="181" selection-end-line="22" selection-end-column="181" />
           <folding />
         </state>
       </provider>
@@ -625,39 +566,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2011/2011-12-14-kids-singing.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2011/2011-12-11-we-moved-downstairs.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2011/2011-12-14-grandpa-reading-runaway-bunny.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2011/2011-12-14-buffalo-on-antelope-island.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.125">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2011/2011-12-14-hanging-out-at-home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -705,89 +614,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014/2014-09-28-maisies-peak-and-more.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.7564104">
-          <caret line="22" column="103" selection-start-line="22" selection-start-column="103" selection-end-line="22" selection-end-column="103" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014/2014-09-28-natural-bridges.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014/2014-10-16-biking-trip-to-yosemite.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="44.958332">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014/2014-10-19-san-francisco-city-to-ferry-loop-bicycle-ride.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.7564102">
-          <caret line="13" column="133" selection-start-line="13" selection-start-column="133" selection-end-line="13" selection-end-column="133" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014/2014-10-26-santa-clara-to-san-carlos-bike-ride.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="8.083333">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014/2014-10-28-celebrating-lucy-and-her-timeline.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.5">
-          <caret line="13" column="1313" selection-start-line="13" selection-start-column="1313" selection-end-line="13" selection-end-column="1313" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014/2014-11-09-crystal-springs-reservoir-ride-and-other-details.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.98717946">
-          <caret line="17" column="75" selection-start-line="17" selection-start-column="75" selection-end-line="17" selection-end-column="75" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014/2014-12-04-free-from-limitations-and-imaginary-lines.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.7179487">
-          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014/2014-01-16-why-i-left-the-mormon-church.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.2413793">
-          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014/2014-03-16-two-months-after-leaving-the-church-an-update.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.75">
-          <caret line="14" column="144" selection-start-line="14" selection-start-column="144" selection-end-line="14" selection-end-column="144" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
@@ -822,25 +648,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.125">
           <caret line="21" column="43" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/samples/2014-12-12-figure-with-caption.markdown">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.51724136">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2011/2011-04-28-cedar-fort-cemetary.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -890,8 +697,261 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2011/2011-09-27-fathers-blessings-august-2011.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11658031">
+        <state vertical-scroll-proportion="-1.875">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/samples/test-post.markdown">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/samples/example-post-formatting.markdown">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/samples/featured-image.markdown">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.6551723">
+          <caret line="9" column="338" selection-start-line="9" selection-start-column="338" selection-end-line="9" selection-end-column="338" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/samples/code-snippet.markdown">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.586207">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/samples/figure-with-caption.markdown">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="6.0">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/samples/image-in-post.markdown">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.6551723">
+          <caret line="14" column="220" selection-start-line="14" selection-start-column="220" selection-end-line="14" selection-end-column="220" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2011/2011-07-31-swimming-at-the-lehi-legacy-center.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.4743589">
+          <caret line="16" column="130" selection-start-line="16" selection-start-column="130" selection-end-line="16" selection-end-column="130" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2011/2011-04-28-cedar-fort-cemetary.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.75">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014/2014-12-04-free-from-limitations-and-imaginary-lines.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.7564102">
+          <caret line="11" column="219" selection-start-line="11" selection-start-column="219" selection-end-line="11" selection-end-column="219" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014/2014-03-16-two-months-after-leaving-the-church-an-update.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.125">
+          <caret line="14" column="144" selection-start-line="14" selection-start-column="144" selection-end-line="14" selection-end-column="144" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014/2014-01-16-why-i-left-the-mormon-church.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="43.448277">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2011/2011-12-14-what-i-like-about-grandpa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.875">
+          <caret line="11" column="122" selection-start-line="11" selection-start-column="122" selection-end-line="11" selection-end-column="122" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2011/2011-12-14-grandpa-reading-runaway-bunny.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2011/2011-12-14-hanging-out-at-home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5">
+          <caret line="12" column="122" selection-start-line="12" selection-start-column="122" selection-end-line="12" selection-end-column="122" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2011/2011-12-14-kids-singing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.875">
+          <caret line="11" column="122" selection-start-line="11" selection-start-column="122" selection-end-line="11" selection-end-column="122" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2011/2011-12-14-sitting-around-at-home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2011/2011-12-14-buffalo-on-antelope-island.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.875">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2011/2011-11-27-discovering-antelope-island.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.717949">
+          <caret line="56" column="19" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2011/2011-11-27-reading-mistborn.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.9166665">
+          <caret line="14" column="163" selection-start-line="14" selection-start-column="163" selection-end-line="14" selection-end-column="163" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2011/2011-11-27-regret-over-a-missed-career-in-astronomy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="8.083333">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2011/2011-12-11-grandma-nana-comes-to-visit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2011/2011-05-02-the-butterfly-paths.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.2083335">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014/2014-09-28-maisies-peak-and-more.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.0416666">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014/2014-09-28-natural-bridges.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5">
+          <caret line="12" column="340" selection-start-line="12" selection-start-column="340" selection-end-line="12" selection-end-column="340" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014/2014-10-16-biking-trip-to-yosemite.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5">
+          <caret line="12" column="344" selection-start-line="12" selection-start-column="344" selection-end-line="12" selection-end-column="344" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014/2014-10-19-san-francisco-city-to-ferry-loop-bicycle-ride.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.75">
+          <caret line="14" column="374" selection-start-line="14" selection-start-column="374" selection-end-line="14" selection-end-column="374" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014/2014-10-26-santa-clara-to-san-carlos-bike-ride.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.875">
+          <caret line="11" column="356" selection-start-line="11" selection-start-column="356" selection-end-line="11" selection-end-column="356" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014/2014-10-28-celebrating-lucy-and-her-timeline.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.125">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014/2014-11-09-crystal-springs-reservoir-ride-and-other-details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42429283">
+          <caret line="12" column="342" selection-start-line="12" selection-start-column="342" selection-end-line="12" selection-end-column="342" />
           <folding />
         </state>
       </provider>
