@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="350ddd91-d297-49f0-a436-2b74df9fac06" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016/2016-03-13-shannon-gets-into-stanford.md" afterPath="$PROJECT_DIR$/_posts/2016/2016-03-13-shannon-gets-into-stanford.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2016/2016-03-13-shannon-gets-into-stanford.md" afterPath="$PROJECT_DIR$/_posts/2016/2016-03-13-shannon-got-into-stanford.md" />
     </list>
     <ignored path="idratherbetellingstories.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,8 +43,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-03-13-shannon-gets-into-stanford.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2016/2016-03-13-shannon-gets-into-stanford.md">
+      <file leaf-file-name="2016-03-13-shannon-got-into-stanford.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2016/2016-03-13-shannon-got-into-stanford.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
@@ -1004,7 +1003,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016/2016-03-13-shannon-gets-into-stanford.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2016/2016-03-13-shannon-got-into-stanford.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
