@@ -22,6 +22,8 @@ navigation:
    url: /subscribe
  - title: Flickr
    url: /flickr
+ - title: Archives
+   url: /archives
 
 social:
    github: tomjohnson1492
